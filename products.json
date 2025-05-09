@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rolex Day-Date 40",
+      "price": 30000,
+      "image": "./src/assets/Rolex Day-Date 40.jpeg",
+      "availability": true,
+      "description": "Crafted in 18K gold, the Rolex Day-Date 40 features a signature President bracelet and a self-winding movement, combining luxury and precision."
+    },
+    {
+      "id": 2,
+      "name": "Audemars Piguet Royal Oak",
+      "price": 50000,
+      "image": "./src/assets/Audemars Piguet Royal Oak.jpeg",
+      "availability": true,
+      "description": "The Royal Oak’s unique octagonal bezel, crafted from stainless steel, is paired with an automatic movement for bold design and innovation."
+    },
+    {
+      "id": 3,
+      "name": "Patek Philippe Nautilus",
+      "price": 61000,
+      "image": "./src/assets/Patek Philippe Nautilus.jpeg",
+      "availability": false,
+      "description": "With its iconic porthole-inspired design and water resistance, the Nautilus is a modern classic for those who appreciate timeless elegance."
+    },
+    {
+      "id": 4,
+      "name": "Richard Mille RM 11-03",
+      "price": 243000,
+      "image": "./src/assets/Richard Mille RM 11-03.jpeg",
+      "availability": false,
+      "description": "A technical masterpiece, the RM 11-03 boasts a skeletonized dial and flyback chronograph, redefining the boundaries of haute horlogerie."
+    },
+    {
+      "id": 5,
+      "name": "Cartier Ballon Bleu",
+      "price": 9000,
+      "image": "./src/assets/Cartier Ballon Bleu.jpeg",
+      "availability": true,
+      "description": "The Cartier Ballon Bleu enchants with its rounded case, blue sapphire crown, and impeccable craftsmanship—a true statement of elegance."
+    },
+    {
+      "id": 6,
+      "name": "Hublot Classic Fusion Titanium",
+      "price": 25000,
+      "image": "./src/assets/Hublot Classic Fusion Titanium.jpeg",
+      "availability": true,
+      "description": "A sleek titanium case, minimalist design, and automatic movement make the Classic Fusion a perfect blend of modern and timeless."
+    },
+    {
+      "id": 7,
+      "name": "IWC Portugieser Automatic",
+      "price": 16000,
+      "image": "./src/assets/IWC Portugieser Automatic.jpeg",
+      "availability": true,
+      "description": "Renowned for its precision, the Portugieser Automatic features a robust 7-day power reserve and a sophisticated design for everyday wear."
+    },
+    {
+      "id": 8,
+      "name": "Omega Constellation",
+      "price": 15000,
+      "image": "./src/assets/Omega Constellation.jpeg",
+      "availability": false,
+      "description": "Showcasing its signature claw design, the Omega Constellation is equipped with a co-axial movement for unparalleled accuracy."
+    },
+    {
+      "id": 9,
+      "name": "Vacheron Constantin Patrimony",
+      "price": 44000,
+      "image": "./src/assets/Vacheron Constantin Patrimony.jpeg",
+      "availability": true,
+      "description": "The Patrimony radiates timeless sophistication with its slim profile, minimalist dial, and precision craftsmanship."
+    },
+    {
+      "id": 10,
+      "name": "Jaeger-LeCoultre Reverso Tribute",
+      "price": 12800,
+      "image": "./src/assets/Jaeger-LeCoultre Reverso Tribute.jpeg",
+      "availability": true,
+      "description": "Inspired by Art Deco, the Reverso Tribute features a swivel case and exquisite craftsmanship, blending style and functionality."
+    },        
+    {
+      "id": 11,
+      "name": "Breguet Classique Tourbillon",
+      "price": 88000,
+      "image": "./src/assets/Breguet Classique Tourbillon.jpeg",
+      "availability": true,
+      "description": "A symbol of horological artistry, the Classique Tourbillon boasts a hand-engraved dial and a technical tourbillon complication."
+    },
+    {
+      "id": 12,
+      "name": "Blancpain Fifty Fathoms",
+      "price": 24000,
+      "image": "./src/assets/Blancpain Fifty Fathoms.jpeg",
+      "availability": true,
+      "description": "The Fifty Fathoms, built for divers, offers robust water resistance, luminous markers, and a bold, adventurous design."
+    }
+  ]
+}

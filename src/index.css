@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+/* Success Toast: Pastel Green */
+.toast-success {
+    background-color: #A7F3D0 !important; /* Light pastel green */
+    color: #065F46 !important; /* Deep teal text for contrast */
+    border-radius: 8px !important; /* Rounded edges */
+    font-family: "Poppins", sans-serif !important; /* Elegant font */
+    font-weight: 500 !important;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15) !important; /* Soft shadow */
+}
+
+/* Error Toast: Pastel Red */
+.toast-error {
+    background-color: #FECACA !important; /* Light pastel red */
+    color: #7F1D1D !important; /* Deep red text for contrast */
+    border-radius: 8px !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 500 !important;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Info Toast: Pastel Indigo */
+.toast-info {
+    background-color: #C7D2FE !important; /* Light pastel indigo */
+    color: #312E81 !important; /* Deep indigo text for contrast */
+    border-radius: 8px !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 500 !important;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Warning Toast: Light Yellow */
+.toast-warning {
+    background-color: #FEF9C3 !important; /* Light pastel yellow */
+    color: #92400E !important; /* Deep amber text for contrast */
+    border-radius: 8px !important;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 500 !important;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Toast Progress Bar: Subtle Accent */
+.Toastify__progress-bar {
+    background-color: #312E81 !important; /* Indigo progress bar */
+}
+    
